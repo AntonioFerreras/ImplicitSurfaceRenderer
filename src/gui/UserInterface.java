@@ -1,13 +1,10 @@
 package gui;
 
-import java.awt.EventQueue;
 
 import javax.swing.JFrame;
-import javax.swing.JLabel;
 
 import math.IntegerVector;
 
-import java.awt.BorderLayout;
 
 public class UserInterface {
 
